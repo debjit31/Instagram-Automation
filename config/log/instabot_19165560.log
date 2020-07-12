@@ -1,0 +1,20 @@
+2020-07-12 19:52:30,954 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-12 19:52:30,954 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\Debjit\AppData\Local\Programs\Python\Python38-32\lib\site-packages\instabot\bot\bot.py
+2020-07-12 19:52:30,954 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-12 19:52:30,954 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-12 19:52:30,954 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\Debjit\OneDrive\Desktop\Instagram Bot/config/debjitchatterjee31_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=93d27fe4-2b1f-431f-87ac-ef451cc06406
+- uuid=8e3732ae-b94f-4c50-8d5f-86ebc0cf06ac
+- client_session_id=b31fd0ef-ed4a-42d3-97bf-7664a698b53c
+- device_id=android-35a5a9ddf8db7031
+2020-07-12 19:52:30,954 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-12 19:52:32,516 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-12 19:52:34,028 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-12 19:52:34,038 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'debjitchatterjee31'!
+2020-07-12 19:52:34,039 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\Debjit\OneDrive\Desktop\Instagram Bot/config/debjitchatterjee31.checkpoint
+2020-07-12 19:52:55,136 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-07-12 19:52:55,582 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-07-12 19:52:55,586 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'file.jpg' is uploaded.
+2020-07-12 19:53:00,588 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Debjit\OneDrive\Desktop\Instagram Bot/config/debjitchatterjee31.checkpoint
+2020-07-12 19:53:00,591 - instabot version: 0.117.0 (bot) - INFO - Total requests: 33
